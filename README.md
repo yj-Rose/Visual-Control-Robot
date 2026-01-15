@@ -201,5 +201,3 @@ R_rc = T_cam2base[:3, :3].astype(np.float32)  # 作为 R_BC 使用
 
 ---
 
-
-
